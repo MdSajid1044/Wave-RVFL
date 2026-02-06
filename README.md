@@ -11,6 +11,23 @@ Arxiv Link: https://arxiv.org/abs/2408.02824
 
 Paper: https://doi.org/10.1007/978-981-96-6579-2_17
 
+```
+BibTex
+@inproceedings{Sajid2025WaveRVFL,
+  author    = {Sajid, Md. and Quadir, A. and Tanveer, M.},
+  title     = {Wave-RVFL: A Randomized Neural Network Based on Wave Loss Function},
+  booktitle = {Neural Information Processing},
+  editor    = {Mahmud, M. and Doborjeh, M. and Wong, K. and Leung, A. C. S. and Doborjeh, Z. and Tanveer, M.},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {15287},
+  pages     = {242–257},
+  year      = {2025},
+  publisher = {Springer},
+  address   = {Singapore},
+  doi       = {10.1007/978-981-96-6579-2_17}
+}
+```
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 The experimental hardware configuration includes a personal computer with an Intel(R) Xeon(R) Gold 6226R CPU at 2.90 GHz and 128 GB of RAM. The system runs Windows 11 and uses MATLAB 2023a to run all experiments.
