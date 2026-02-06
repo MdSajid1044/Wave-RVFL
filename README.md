@@ -12,7 +12,8 @@ Arxiv Link: https://arxiv.org/abs/2408.02824
 Paper: https://doi.org/10.1007/978-981-96-6579-2_17
 
 ```
-BibTex
+# BibTex
+---------
 @inproceedings{Sajid2025WaveRVFL,
   author    = {Sajid, Md. and Quadir, A. and Tanveer, M.},
   title     = {Wave-RVFL: A Randomized Neural Network Based on Wave Loss Function},
