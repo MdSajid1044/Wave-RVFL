@@ -16,10 +16,9 @@ Paper: https://doi.org/10.1007/978-981-96-6579-2_17
 ---------
 ```
 @inproceedings{Sajid2025WaveRVFL,
-  author    = {Sajid, Md. and Quadir, A. and Tanveer, M.},
+  author    = {Sajid, M. and Quadir, A. and Tanveer, M.},
   title     = {Wave-RVFL: A Randomized Neural Network Based on Wave Loss Function},
   booktitle = {Neural Information Processing},
-  editor    = {Mahmud, M. and Doborjeh, M. and Wong, K. and Leung, A. C. S. and Doborjeh, Z. and Tanveer, M.},
   series    = {Lecture Notes in Computer Science},
   volume    = {15287},
   pages     = {242–257},
